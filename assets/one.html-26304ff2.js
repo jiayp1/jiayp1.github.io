@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-55339b62","path":"/baodian/zero/notes/one.html","title":"菜单一","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"baodian/zero/notes/one.md"}');export{e as data};

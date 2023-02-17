@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-470ce9ad","path":"/guide/notes/one.html","title":"起步","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"配置","slug":"配置","link":"#配置","children":[{"level":3,"title":"注意事项","slug":"注意事项","link":"#注意事项","children":[]}]}],"git":{},"filePathRelative":"guide/notes/one.md"}');export{e as data};

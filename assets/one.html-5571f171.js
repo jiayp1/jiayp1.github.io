@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as a,R as e,t as n}from"./framework-204010b2.js";const s={},c=e("h1",{id:"菜单二-起步",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#菜单二-起步","aria-hidden":"true"},"#"),n(" 菜单二 | 起步")],-1),r=e("p",null,"XXXX",-1),_=[c,r];function d(i,l){return o(),a("div",null,_)}const f=t(s,[["render",d],["__file","one.html.vue"]]);export{f as default};

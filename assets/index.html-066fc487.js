@@ -1,0 +1,1 @@
+import{_ as n,p as c,q as l,Q as t,R as e}from"./framework-204010b2.js";const o={},s=e("div",{style:{"text-align":"center"}},[e("h2",null,"自定义内容"),e("h3",null,"XXXXXXXXXXXXX")],-1);function a(r,_){return c(),l("div",null,[t(" 这里是其他内容 "),s,t(" END ")])}const d=n(o,[["render",a],["__file","index.html.vue"]]);export{d as default};
