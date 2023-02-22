@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-4f36a928","path":"/baodian/high/notes/one.html","title":"菜单二 | 起步","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"baodian/high/notes/one.md"}');export{t as data};

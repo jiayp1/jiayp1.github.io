@@ -1,1 +1,0 @@
-import{_ as t,p as o,q as a,R as e,t as s}from"./framework-204010b2.js";const c={},n=e("h1",{id:"快速上手",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#快速上手","aria-hidden":"true"},"#"),s(" 快速上手")],-1),r=e("p",null,"这是内容...",-1),_=[n,r];function d(i,l){return o(),a("div",null,_)}const f=t(c,[["render",d],["__file","two.html.vue"]]);export{f as default};
